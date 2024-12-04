@@ -1,0 +1,1001 @@
+Document ID,Clause ID,Clause Text,Clause Type,Risk Level,Sentiment Label,Sentiment Score
+DOC037,CL0306,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Aggressive,-0.86
+DOC030,CL0177,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,-0.48
+DOC022,CL0854,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Neutral,-0.25
+DOC001,CL0104,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,0.96
+DOC006,CL0569,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Aggressive,0.49
+DOC018,CL0973,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Neutral,0.03
+DOC045,CL0512,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Neutral,-0.74
+DOC029,CL0645,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,0.58
+DOC009,CL0088,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Collaborative,0.91
+DOC003,CL0702,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Collaborative,-0.96
+DOC044,CL0742,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,0.49
+DOC038,CL0032,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,High,Collaborative,-0.37
+DOC031,CL0300,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Aggressive,-0.35
+DOC030,CL0358,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Neutral,-0.27
+DOC027,CL0489,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Neutral,0.83
+DOC035,CL0476,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Collaborative,-0.09
+DOC025,CL0854,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Neutral,0.52
+DOC033,CL0471,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,0.01
+DOC015,CL0987,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,0.13
+DOC025,CL0310,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,0.86
+DOC024,CL0716,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,-0.37
+DOC043,CL0145,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Aggressive,0.83
+DOC023,CL0737,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Neutral,-0.88
+DOC005,CL0533,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Medium,Aggressive,0.53
+DOC014,CL0420,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,0.62
+DOC022,CL0250,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,0.31
+DOC008,CL0597,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,0.61
+DOC009,CL0474,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Neutral,0.22
+DOC009,CL0676,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,-0.4
+DOC031,CL0787,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,-0.69
+DOC050,CL0004,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,Low,Collaborative,0.07
+DOC010,CL0220,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,0.17
+DOC017,CL0019,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,-0.96
+DOC005,CL0022,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Aggressive,0.28
+DOC020,CL0670,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,0.14
+DOC020,CL0257,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Neutral,0.28
+DOC021,CL0490,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,-0.73
+DOC002,CL0207,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,0.44
+DOC045,CL0441,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,-0.85
+DOC033,CL0572,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,0.61
+DOC028,CL0669,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,Medium,Neutral,-0.38
+DOC037,CL0971,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Aggressive,0.69
+DOC036,CL0782,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,High,Aggressive,-0.97
+DOC036,CL0138,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,-0.06
+DOC040,CL0261,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,High,Neutral,0.15
+DOC042,CL0392,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Collaborative,0.21
+DOC033,CL0865,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Neutral,-0.5
+DOC029,CL0413,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Neutral,0.16
+DOC029,CL0559,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Neutral,0.22
+DOC041,CL0111,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Medium,Collaborative,0.86
+DOC049,CL0647,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Collaborative,0.28
+DOC046,CL0713,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,-0.46
+DOC009,CL0145,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Neutral,0.78
+DOC039,CL0616,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Collaborative,-0.61
+DOC007,CL0647,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Neutral,0.4
+DOC035,CL0485,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Collaborative,-0.75
+DOC028,CL0543,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,-0.23
+DOC015,CL0608,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,0.12
+DOC045,CL0493,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,0.38
+DOC031,CL0332,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Collaborative,-0.04
+DOC025,CL0156,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Neutral,-0.25
+DOC039,CL0529,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Low,Aggressive,0.32
+DOC035,CL0203,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,-0.33
+DOC005,CL0037,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,-0.74
+DOC020,CL0829,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Collaborative,-0.66
+DOC010,CL0068,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Neutral,-0.62
+DOC011,CL0989,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,-0.83
+DOC040,CL0719,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,-0.24
+DOC001,CL0051,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Collaborative,-0.95
+DOC003,CL0921,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Neutral,0.94
+DOC020,CL0318,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,0.49
+DOC014,CL0310,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,0.35
+DOC014,CL0311,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Medium,Collaborative,-0.41
+DOC028,CL0297,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Aggressive,0.54
+DOC024,CL0402,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,High,Neutral,0.14
+DOC028,CL0380,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Aggressive,0.17
+DOC038,CL0532,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Collaborative,1.0
+DOC025,CL0765,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,-0.53
+DOC049,CL0953,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,0.04
+DOC005,CL0407,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,0.09
+DOC012,CL0953,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,Low,Neutral,0.86
+DOC024,CL0493,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,-0.04
+DOC028,CL0758,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Collaborative,0.97
+DOC045,CL0079,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,0.87
+DOC014,CL0955,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,0.65
+DOC004,CL0044,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Neutral,-0.75
+DOC033,CL0684,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Neutral,0.61
+DOC040,CL0992,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Collaborative,-0.82
+DOC035,CL0055,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,0.07
+DOC021,CL0973,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Neutral,-0.24
+DOC016,CL0417,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,0.21
+DOC016,CL0930,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Neutral,0.03
+DOC046,CL0515,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Medium,Neutral,-0.21
+DOC010,CL0223,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Aggressive,0.32
+DOC015,CL0679,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,0.47
+DOC012,CL0912,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Aggressive,0.66
+DOC026,CL0807,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Collaborative,-0.21
+DOC006,CL0101,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Aggressive,0.82
+DOC016,CL0585,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,-0.52
+DOC041,CL0696,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Neutral,0.82
+DOC026,CL0280,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Aggressive,0.97
+DOC050,CL0509,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,-0.31
+DOC010,CL0216,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Collaborative,0.91
+DOC046,CL0368,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,0.43
+DOC035,CL0399,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Aggressive,-0.71
+DOC004,CL0129,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Medium,Neutral,-0.8
+DOC048,CL0178,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Neutral,-0.5
+DOC016,CL0523,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Collaborative,0.93
+DOC025,CL0959,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,High,Collaborative,0.5
+DOC024,CL0543,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Aggressive,0.17
+DOC044,CL0667,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,-0.73
+DOC041,CL0956,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,0.42
+DOC013,CL0549,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Collaborative,-0.92
+DOC045,CL0620,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,0.93
+DOC046,CL0556,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Aggressive,0.62
+DOC011,CL0366,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,0.03
+DOC015,CL0688,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,0.53
+DOC032,CL0076,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Neutral,0.01
+DOC046,CL0373,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Neutral,-0.72
+DOC021,CL0762,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Neutral,-0.2
+DOC024,CL0851,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Aggressive,0.2
+DOC005,CL0506,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,Medium,Neutral,0.26
+DOC014,CL0809,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Collaborative,0.09
+DOC003,CL0692,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Neutral,0.18
+DOC021,CL0801,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,-0.47
+DOC017,CL0826,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Aggressive,0.89
+DOC022,CL0120,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Low,Collaborative,-0.82
+DOC039,CL0299,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,Low,Collaborative,0.28
+DOC022,CL0550,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,-0.47
+DOC050,CL0369,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Collaborative,-0.25
+DOC010,CL0196,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Collaborative,-0.89
+DOC024,CL0504,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Collaborative,-0.78
+DOC029,CL0986,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,-0.63
+DOC022,CL0383,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,0.58
+DOC045,CL0596,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Collaborative,0.47
+DOC001,CL0506,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Collaborative,0.79
+DOC020,CL0679,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,-0.48
+DOC013,CL0681,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,-0.12
+DOC044,CL0342,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,-0.47
+DOC025,CL0815,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Neutral,0.8
+DOC049,CL0854,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Collaborative,-0.71
+DOC040,CL0236,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Aggressive,0.64
+DOC037,CL0097,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Neutral,-0.49
+DOC026,CL0297,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Aggressive,0.66
+DOC050,CL0863,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,0.36
+DOC018,CL0601,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,-0.16
+DOC030,CL0193,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Low,Collaborative,0.68
+DOC007,CL0353,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,High,Collaborative,0.41
+DOC047,CL0826,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,Medium,Neutral,0.21
+DOC017,CL0190,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Collaborative,-0.2
+DOC011,CL0513,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,0.76
+DOC012,CL0334,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Collaborative,-0.76
+DOC026,CL0848,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Collaborative,-0.77
+DOC046,CL0545,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,-0.78
+DOC030,CL0273,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Neutral,0.17
+DOC007,CL0346,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,0.45
+DOC022,CL0468,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,0.72
+DOC004,CL0934,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Neutral,0.83
+DOC037,CL0929,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Neutral,0.04
+DOC027,CL0025,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Neutral,-0.42
+DOC010,CL0906,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Aggressive,0.68
+DOC023,CL0726,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Collaborative,-0.75
+DOC019,CL0640,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,-0.49
+DOC035,CL0501,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,-0.74
+DOC042,CL0750,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Neutral,0.45
+DOC021,CL0590,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Collaborative,-0.38
+DOC025,CL0930,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Neutral,-0.38
+DOC031,CL0565,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Neutral,0.6
+DOC048,CL0315,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,-0.86
+DOC029,CL0341,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,0.59
+DOC008,CL0337,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,-0.41
+DOC043,CL0380,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Neutral,0.24
+DOC002,CL0525,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Collaborative,-0.19
+DOC004,CL0053,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Aggressive,0.37
+DOC047,CL0893,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,-0.21
+DOC017,CL0978,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Neutral,-0.38
+DOC016,CL0163,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Collaborative,0.21
+DOC029,CL0883,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,-0.11
+DOC020,CL0310,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Aggressive,0.65
+DOC019,CL0899,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Collaborative,-0.84
+DOC006,CL0376,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,High,Collaborative,0.78
+DOC029,CL0180,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,0.1
+DOC033,CL0976,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Neutral,-0.11
+DOC008,CL0602,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Medium,Collaborative,-0.18
+DOC030,CL0136,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,-0.52
+DOC039,CL0454,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,0.82
+DOC006,CL0257,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,0.03
+DOC020,CL0900,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Neutral,-0.37
+DOC045,CL0002,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Neutral,-0.86
+DOC047,CL0641,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,0.99
+DOC048,CL0353,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Collaborative,0.23
+DOC018,CL0252,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,0.4
+DOC019,CL0153,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,High,Neutral,0.25
+DOC022,CL0573,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,0.94
+DOC028,CL0600,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Neutral,-0.76
+DOC044,CL0352,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Collaborative,-0.22
+DOC043,CL0970,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,-0.47
+DOC019,CL0593,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Aggressive,0.47
+DOC040,CL0239,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Neutral,-0.06
+DOC029,CL0294,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,0.67
+DOC025,CL0629,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,High,Neutral,0.53
+DOC036,CL0510,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Neutral,0.18
+DOC041,CL0607,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,-0.96
+DOC033,CL0972,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,-0.9
+DOC025,CL0408,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Neutral,-0.91
+DOC005,CL0205,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Aggressive,0.79
+DOC031,CL0462,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,Medium,Collaborative,-0.73
+DOC037,CL0758,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,High,Aggressive,0.66
+DOC013,CL0773,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Neutral,0.32
+DOC001,CL0534,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,0.63
+DOC006,CL0304,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Medium,Collaborative,-0.55
+DOC019,CL0419,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,0.21
+DOC015,CL0670,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Aggressive,0.86
+DOC015,CL0465,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Neutral,-0.86
+DOC044,CL0662,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,0.47
+DOC030,CL0159,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,0.93
+DOC016,CL0318,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,High,Collaborative,0.11
+DOC022,CL0255,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Collaborative,0.68
+DOC002,CL0851,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,Medium,Aggressive,-0.81
+DOC033,CL0779,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,-0.04
+DOC024,CL0807,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Neutral,-0.03
+DOC012,CL0240,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,0.53
+DOC035,CL0192,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Aggressive,0.8
+DOC048,CL0884,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Neutral,0.51
+DOC038,CL0666,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Collaborative,0.33
+DOC004,CL0055,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Collaborative,-0.19
+DOC038,CL0146,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Aggressive,-0.09
+DOC042,CL0214,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,0.36
+DOC013,CL0938,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Aggressive,0.1
+DOC018,CL0666,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Aggressive,0.37
+DOC009,CL0252,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,0.87
+DOC019,CL0037,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Neutral,0.2
+DOC026,CL0012,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,0.56
+DOC005,CL0291,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Neutral,-0.02
+DOC009,CL0448,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Neutral,0.78
+DOC049,CL0961,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Aggressive,0.11
+DOC008,CL0661,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Collaborative,-0.19
+DOC038,CL0371,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Neutral,0.09
+DOC012,CL0868,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Neutral,-0.63
+DOC020,CL0301,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Neutral,0.97
+DOC046,CL0793,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,-0.06
+DOC013,CL0537,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Neutral,-0.2
+DOC024,CL0755,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Collaborative,0.53
+DOC019,CL0627,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Aggressive,0.28
+DOC026,CL0476,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Collaborative,0.95
+DOC008,CL0630,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Neutral,-0.79
+DOC021,CL0085,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,-0.53
+DOC028,CL0312,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,0.12
+DOC043,CL0831,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,-0.21
+DOC024,CL0924,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Aggressive,0.17
+DOC040,CL0454,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,0.75
+DOC032,CL0318,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Neutral,0.96
+DOC004,CL0181,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Aggressive,0.78
+DOC026,CL0180,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Neutral,0.75
+DOC004,CL0630,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Collaborative,0.52
+DOC021,CL0652,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Aggressive,0.88
+DOC047,CL0866,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Collaborative,0.8
+DOC008,CL0313,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,0.84
+DOC025,CL0569,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,0.65
+DOC034,CL0104,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Aggressive,-0.62
+DOC012,CL0545,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Collaborative,-0.82
+DOC012,CL0623,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Aggressive,-0.38
+DOC040,CL0163,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Collaborative,0.56
+DOC047,CL0631,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,0.34
+DOC035,CL0848,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Neutral,0.05
+DOC029,CL0211,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,High,Neutral,-0.9
+DOC004,CL0393,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,0.47
+DOC039,CL0352,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,-0.35
+DOC038,CL0173,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Neutral,-0.11
+DOC015,CL0892,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Aggressive,0.51
+DOC010,CL0545,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,-0.44
+DOC031,CL0035,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,-0.92
+DOC011,CL0641,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,High,Neutral,0.61
+DOC040,CL0516,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Medium,Aggressive,-0.47
+DOC001,CL0436,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Aggressive,0.13
+DOC036,CL0360,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,High,Collaborative,0.73
+DOC049,CL0674,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Neutral,-0.5
+DOC041,CL0441,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Aggressive,-0.54
+DOC016,CL0435,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Collaborative,0.61
+DOC009,CL0677,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Neutral,-0.78
+DOC007,CL0907,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Neutral,-0.96
+DOC049,CL0121,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Neutral,0.85
+DOC025,CL0906,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Collaborative,0.23
+DOC016,CL0276,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Collaborative,0.27
+DOC014,CL0027,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,-0.49
+DOC028,CL0097,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,-0.4
+DOC046,CL0166,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Collaborative,-0.73
+DOC042,CL0033,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,0.25
+DOC025,CL0739,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Collaborative,0.88
+DOC001,CL0068,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Collaborative,-0.69
+DOC005,CL0244,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Medium,Neutral,-0.9
+DOC031,CL0974,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Aggressive,-0.02
+DOC021,CL0553,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Low,Collaborative,0.46
+DOC012,CL0588,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,0.13
+DOC015,CL0390,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Collaborative,-0.07
+DOC004,CL0579,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Aggressive,0.53
+DOC007,CL0654,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,High,Neutral,-0.04
+DOC034,CL0253,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,-0.1
+DOC004,CL0315,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Medium,Neutral,0.2
+DOC012,CL0820,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Neutral,0.66
+DOC002,CL0235,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Aggressive,0.93
+DOC041,CL0010,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Neutral,0.47
+DOC007,CL0966,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Neutral,-0.58
+DOC049,CL0209,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Collaborative,0.66
+DOC047,CL0578,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,0.28
+DOC003,CL0587,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,0.94
+DOC025,CL0258,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Neutral,0.22
+DOC020,CL0463,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,High,Collaborative,-0.31
+DOC006,CL0001,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Collaborative,0.04
+DOC001,CL0777,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Collaborative,-0.31
+DOC001,CL0700,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,-0.85
+DOC006,CL0807,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,-0.62
+DOC010,CL0594,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,0.69
+DOC012,CL0563,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Collaborative,-0.0
+DOC014,CL0203,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,Low,Collaborative,0.97
+DOC037,CL0652,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Low,Collaborative,-0.46
+DOC006,CL0090,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Medium,Neutral,-0.05
+DOC042,CL0858,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Neutral,0.17
+DOC016,CL0506,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Neutral,-0.36
+DOC008,CL0990,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,-0.84
+DOC016,CL0778,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Aggressive,0.5
+DOC020,CL0416,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,High,Collaborative,-0.94
+DOC027,CL0168,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,-0.33
+DOC007,CL0901,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Collaborative,-0.24
+DOC011,CL0898,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,-0.52
+DOC006,CL0113,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Neutral,0.97
+DOC004,CL0520,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,High,Aggressive,0.8
+DOC006,CL0546,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Neutral,-0.41
+DOC034,CL0187,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,High,Neutral,0.46
+DOC028,CL0313,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Neutral,-0.85
+DOC012,CL0347,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Neutral,0.19
+DOC027,CL0437,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,0.6
+DOC042,CL0443,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Collaborative,0.73
+DOC043,CL0806,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Neutral,0.55
+DOC027,CL0777,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Collaborative,-0.8
+DOC002,CL0835,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Aggressive,-0.71
+DOC016,CL0309,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Low,Collaborative,0.36
+DOC009,CL0554,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Aggressive,0.89
+DOC018,CL0010,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Collaborative,0.11
+DOC031,CL0223,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,-0.34
+DOC036,CL0549,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Collaborative,-0.09
+DOC034,CL0994,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,-0.37
+DOC043,CL0006,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,-0.25
+DOC030,CL0765,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Neutral,-0.98
+DOC008,CL0161,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Collaborative,-0.1
+DOC028,CL0281,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Collaborative,-0.14
+DOC043,CL0463,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Aggressive,0.32
+DOC033,CL0878,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Aggressive,-0.23
+DOC021,CL0280,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Collaborative,-0.97
+DOC046,CL0571,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,0.18
+DOC018,CL0567,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,-0.25
+DOC041,CL0029,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Aggressive,-0.38
+DOC029,CL0423,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,-0.95
+DOC030,CL0448,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,High,Neutral,-0.12
+DOC005,CL0843,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Neutral,0.98
+DOC043,CL0371,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Aggressive,-0.2
+DOC017,CL0620,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Aggressive,0.51
+DOC002,CL0603,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Aggressive,-0.98
+DOC040,CL0671,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,-0.69
+DOC025,CL0153,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Collaborative,0.7
+DOC044,CL0191,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,High,Aggressive,0.09
+DOC026,CL0518,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,0.88
+DOC001,CL0241,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Neutral,-0.92
+DOC038,CL0478,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Aggressive,-0.56
+DOC038,CL0995,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Neutral,-0.93
+DOC027,CL0918,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Aggressive,0.11
+DOC042,CL0569,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Aggressive,0.4
+DOC041,CL0372,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Aggressive,-0.51
+DOC025,CL0689,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,0.6
+DOC032,CL0913,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,-0.47
+DOC042,CL0638,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,0.21
+DOC027,CL0423,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,-0.98
+DOC017,CL0278,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,High,Collaborative,-0.53
+DOC004,CL0899,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Neutral,0.07
+DOC042,CL0026,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Neutral,-0.07
+DOC003,CL0689,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,High,Aggressive,0.12
+DOC048,CL0673,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Neutral,0.43
+DOC006,CL0561,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,High,Aggressive,-0.83
+DOC001,CL0281,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Neutral,-0.21
+DOC024,CL0009,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,-0.76
+DOC041,CL0285,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Collaborative,0.93
+DOC038,CL0532,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Neutral,0.09
+DOC028,CL0708,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Neutral,-0.44
+DOC042,CL0969,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Aggressive,-0.88
+DOC037,CL0238,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Aggressive,0.98
+DOC007,CL0363,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Neutral,-0.55
+DOC049,CL0972,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Aggressive,-0.38
+DOC045,CL0503,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,High,Neutral,0.56
+DOC039,CL0691,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Aggressive,-0.25
+DOC001,CL0305,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Neutral,-0.42
+DOC045,CL0447,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,High,Aggressive,-0.84
+DOC018,CL0761,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Medium,Neutral,-0.08
+DOC021,CL0784,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Medium,Aggressive,-0.62
+DOC015,CL0779,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Aggressive,-0.73
+DOC012,CL0815,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Neutral,-0.7
+DOC017,CL0921,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Medium,Neutral,0.59
+DOC050,CL0070,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Medium,Aggressive,0.9
+DOC018,CL0799,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,0.13
+DOC029,CL0275,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Neutral,-0.71
+DOC038,CL0299,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Aggressive,-0.11
+DOC022,CL0170,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,-0.7
+DOC006,CL0114,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,-0.56
+DOC045,CL0324,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,High,Aggressive,0.48
+DOC040,CL0474,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,0.62
+DOC043,CL0623,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,-0.61
+DOC040,CL0509,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Neutral,-0.24
+DOC016,CL0354,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Collaborative,0.16
+DOC047,CL0726,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,-0.24
+DOC027,CL0507,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Collaborative,0.85
+DOC050,CL0794,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,Medium,Collaborative,0.35
+DOC004,CL0631,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Collaborative,0.79
+DOC001,CL0235,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Collaborative,0.39
+DOC028,CL0486,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Collaborative,-0.2
+DOC005,CL0451,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,0.05
+DOC030,CL0610,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,-0.04
+DOC038,CL0417,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Collaborative,-0.49
+DOC045,CL0085,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Aggressive,0.01
+DOC001,CL0789,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Aggressive,-0.3
+DOC028,CL0065,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,-0.93
+DOC013,CL0803,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,0.27
+DOC039,CL0351,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Neutral,0.09
+DOC044,CL0416,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,Medium,Aggressive,0.36
+DOC046,CL0930,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Neutral,-0.36
+DOC027,CL0945,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Aggressive,0.01
+DOC010,CL0528,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Neutral,-0.02
+DOC011,CL0633,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Aggressive,0.43
+DOC008,CL0535,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Neutral,0.61
+DOC040,CL0895,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Aggressive,-0.87
+DOC028,CL0583,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,-0.95
+DOC032,CL0121,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,-0.73
+DOC035,CL0557,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,-0.36
+DOC047,CL0158,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Aggressive,0.5
+DOC043,CL0794,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,Medium,Collaborative,-0.98
+DOC003,CL0348,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,High,Neutral,-0.07
+DOC042,CL0480,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Collaborative,0.11
+DOC018,CL0500,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Neutral,0.9
+DOC029,CL0687,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,0.84
+DOC010,CL0896,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Neutral,-0.71
+DOC016,CL0228,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Collaborative,0.2
+DOC019,CL0429,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Neutral,0.39
+DOC016,CL0932,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Aggressive,-0.88
+DOC027,CL0312,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Neutral,-0.92
+DOC030,CL0877,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Collaborative,-0.72
+DOC012,CL0575,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Aggressive,0.22
+DOC049,CL0120,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,-0.57
+DOC015,CL0481,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Aggressive,-0.12
+DOC020,CL0498,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,-0.46
+DOC008,CL0846,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Aggressive,-0.83
+DOC016,CL0095,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,-0.08
+DOC050,CL0131,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Aggressive,0.64
+DOC022,CL0716,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,-0.65
+DOC049,CL0720,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Collaborative,0.77
+DOC031,CL0367,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,-0.42
+DOC020,CL0851,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Aggressive,-0.25
+DOC039,CL0360,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Aggressive,-0.41
+DOC003,CL0694,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Aggressive,0.16
+DOC012,CL0735,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,-0.96
+DOC011,CL0746,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Neutral,0.45
+DOC027,CL0382,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Collaborative,-0.08
+DOC040,CL0961,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Collaborative,-0.6
+DOC013,CL0688,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Collaborative,-0.83
+DOC041,CL0213,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Neutral,0.82
+DOC019,CL0823,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Collaborative,-0.78
+DOC028,CL0844,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,-0.69
+DOC001,CL0236,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Collaborative,-0.12
+DOC038,CL0250,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Neutral,0.24
+DOC010,CL0245,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Neutral,-0.91
+DOC024,CL0749,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Aggressive,-0.07
+DOC040,CL0878,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Collaborative,-0.27
+DOC048,CL0433,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Collaborative,0.51
+DOC049,CL0084,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Collaborative,0.59
+DOC030,CL0094,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,-0.35
+DOC024,CL0761,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,-0.76
+DOC017,CL0242,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Aggressive,-0.79
+DOC003,CL0027,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Collaborative,-1.0
+DOC015,CL0843,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,-0.09
+DOC029,CL0634,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Collaborative,0.02
+DOC002,CL0984,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Neutral,0.56
+DOC021,CL0803,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Aggressive,-0.45
+DOC033,CL0945,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Aggressive,0.79
+DOC016,CL0742,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Collaborative,-0.47
+DOC035,CL0398,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Aggressive,-0.91
+DOC049,CL0763,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Aggressive,-0.95
+DOC021,CL0018,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Neutral,0.32
+DOC027,CL0024,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Aggressive,0.21
+DOC010,CL0810,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,Medium,Aggressive,0.23
+DOC001,CL0380,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Aggressive,0.49
+DOC011,CL0436,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Neutral,-0.99
+DOC003,CL0777,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Collaborative,0.98
+DOC026,CL1000,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Neutral,0.96
+DOC046,CL0952,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Aggressive,-0.16
+DOC010,CL0753,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Aggressive,-0.25
+DOC006,CL0843,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Medium,Neutral,-0.67
+DOC010,CL0606,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,-0.84
+DOC050,CL0724,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,-0.3
+DOC036,CL0342,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,-0.12
+DOC029,CL0415,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,High,Aggressive,0.88
+DOC005,CL0375,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,0.34
+DOC033,CL0956,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Neutral,-0.69
+DOC043,CL0850,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Collaborative,-0.5
+DOC014,CL0124,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,High,Neutral,-0.71
+DOC046,CL0377,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,Medium,Collaborative,-0.8
+DOC025,CL0923,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Neutral,0.82
+DOC024,CL0024,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Neutral,-0.27
+DOC005,CL0667,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,High,Neutral,-0.19
+DOC017,CL0129,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Collaborative,0.02
+DOC003,CL0571,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Neutral,-0.81
+DOC020,CL0120,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Aggressive,0.03
+DOC034,CL0777,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Aggressive,0.22
+DOC038,CL0736,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Aggressive,-0.35
+DOC013,CL0840,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,0.09
+DOC028,CL0628,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,0.07
+DOC026,CL0818,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Neutral,-0.14
+DOC042,CL0998,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Collaborative,-0.6
+DOC048,CL0157,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,-0.86
+DOC009,CL0545,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Neutral,-0.94
+DOC009,CL0568,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Neutral,0.41
+DOC047,CL0035,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,-0.63
+DOC028,CL0691,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Aggressive,0.95
+DOC030,CL0881,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Neutral,0.61
+DOC024,CL0032,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Aggressive,0.07
+DOC026,CL0693,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Neutral,0.76
+DOC011,CL0969,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Neutral,0.04
+DOC030,CL0694,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,High,Collaborative,0.48
+DOC030,CL0585,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Collaborative,-0.8
+DOC008,CL0145,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Collaborative,-0.88
+DOC002,CL0983,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,Medium,Aggressive,0.91
+DOC007,CL0574,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Neutral,0.21
+DOC023,CL0713,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Neutral,-0.8
+DOC005,CL0360,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,0.38
+DOC044,CL0595,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Collaborative,0.46
+DOC031,CL0521,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Collaborative,0.67
+DOC024,CL0006,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Neutral,0.42
+DOC012,CL0319,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Aggressive,-0.77
+DOC047,CL0586,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Neutral,0.19
+DOC048,CL0668,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,0.03
+DOC005,CL0923,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Collaborative,-0.8
+DOC050,CL0444,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,0.39
+DOC002,CL0177,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Aggressive,-0.56
+DOC012,CL0900,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Aggressive,-0.66
+DOC011,CL0377,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,High,Collaborative,0.06
+DOC035,CL0049,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,0.21
+DOC020,CL0574,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Collaborative,0.27
+DOC012,CL0504,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Aggressive,0.97
+DOC022,CL0323,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,Medium,Collaborative,0.8
+DOC028,CL0440,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,0.94
+DOC011,CL0898,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Aggressive,0.11
+DOC025,CL0607,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,-0.76
+DOC002,CL0091,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,High,Collaborative,0.99
+DOC044,CL0457,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Collaborative,-0.45
+DOC048,CL0645,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,0.81
+DOC008,CL0638,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Neutral,-0.22
+DOC019,CL0956,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,-0.41
+DOC022,CL0376,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Neutral,-0.57
+DOC035,CL0207,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Low,Collaborative,-0.38
+DOC026,CL0946,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,0.75
+DOC048,CL0329,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Neutral,-0.05
+DOC034,CL0222,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,-0.96
+DOC032,CL0617,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Neutral,-0.89
+DOC037,CL0721,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,High,Collaborative,0.34
+DOC020,CL0691,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Collaborative,0.15
+DOC002,CL0453,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Neutral,-0.29
+DOC020,CL0718,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Neutral,0.56
+DOC035,CL0160,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Neutral,-0.86
+DOC043,CL0367,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Collaborative,-0.76
+DOC050,CL0096,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,0.21
+DOC017,CL0478,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,-0.55
+DOC037,CL0151,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Collaborative,0.21
+DOC030,CL0084,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Neutral,-0.39
+DOC036,CL0168,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,0.85
+DOC008,CL0452,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Neutral,0.42
+DOC010,CL0569,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,-0.61
+DOC048,CL0907,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Collaborative,0.14
+DOC025,CL0259,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,High,Aggressive,0.7
+DOC049,CL0461,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Collaborative,-0.48
+DOC031,CL0407,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Aggressive,-0.57
+DOC045,CL0647,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Medium,Neutral,0.14
+DOC046,CL0490,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,0.36
+DOC039,CL0178,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,-0.79
+DOC047,CL0691,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Neutral,-0.6
+DOC001,CL0653,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Aggressive,0.14
+DOC032,CL0962,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,High,Aggressive,0.91
+DOC021,CL0358,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Collaborative,0.99
+DOC028,CL0354,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Collaborative,0.53
+DOC031,CL0128,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Medium,Collaborative,0.61
+DOC003,CL0795,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Neutral,-0.64
+DOC009,CL0195,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Collaborative,-0.56
+DOC016,CL0831,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Aggressive,-0.28
+DOC043,CL0327,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,High,Neutral,0.35
+DOC023,CL0552,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Neutral,-0.23
+DOC042,CL0563,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Aggressive,-0.12
+DOC018,CL0977,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,0.87
+DOC041,CL0293,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Neutral,0.8
+DOC031,CL0930,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Low,Neutral,-0.34
+DOC037,CL0088,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,0.64
+DOC005,CL0867,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Collaborative,-0.86
+DOC011,CL0578,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Medium,Neutral,0.99
+DOC023,CL0666,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Neutral,-0.67
+DOC017,CL0819,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Aggressive,0.99
+DOC005,CL0730,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Aggressive,0.29
+DOC009,CL0258,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Aggressive,-0.45
+DOC028,CL0746,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,-0.36
+DOC022,CL0651,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,-0.15
+DOC038,CL0095,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Aggressive,0.19
+DOC014,CL0464,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Neutral,-0.78
+DOC022,CL0456,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Low,Aggressive,-0.59
+DOC025,CL0898,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Neutral,-0.87
+DOC022,CL0916,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,-0.93
+DOC028,CL0608,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Collaborative,-0.93
+DOC046,CL0194,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,High,Aggressive,-0.7
+DOC039,CL0209,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,-0.92
+DOC011,CL0490,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Aggressive,-0.2
+DOC014,CL0202,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,-0.28
+DOC020,CL0911,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,0.01
+DOC007,CL0947,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Aggressive,0.04
+DOC007,CL0147,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,Medium,Aggressive,-0.37
+DOC043,CL0458,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,0.6
+DOC015,CL0497,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Neutral,-0.15
+DOC012,CL0754,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Aggressive,-0.84
+DOC032,CL0085,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,0.79
+DOC045,CL0714,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,-0.68
+DOC005,CL0039,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Neutral,-0.08
+DOC037,CL0135,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Medium,Collaborative,-0.95
+DOC005,CL0295,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,0.73
+DOC044,CL0004,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Aggressive,-0.65
+DOC040,CL0520,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,-0.63
+DOC034,CL0459,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,-0.94
+DOC024,CL0154,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,0.18
+DOC046,CL0119,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,0.42
+DOC042,CL0455,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Aggressive,0.04
+DOC023,CL0515,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,0.54
+DOC019,CL0048,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Neutral,-0.55
+DOC015,CL0601,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,0.8
+DOC038,CL0661,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Aggressive,0.38
+DOC009,CL0334,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,0.07
+DOC017,CL0881,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Aggressive,1.0
+DOC024,CL0368,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Medium,Neutral,0.6
+DOC002,CL0783,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Aggressive,0.66
+DOC001,CL0781,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,-0.91
+DOC004,CL0935,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Aggressive,0.28
+DOC042,CL0619,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Neutral,1.0
+DOC033,CL0542,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Collaborative,-0.14
+DOC045,CL0319,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Neutral,0.47
+DOC004,CL0423,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Neutral,0.2
+DOC010,CL0435,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Neutral,-0.15
+DOC042,CL0222,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Aggressive,0.64
+DOC025,CL0978,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Neutral,-0.26
+DOC012,CL0489,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,0.16
+DOC044,CL0564,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Neutral,0.59
+DOC003,CL0993,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Neutral,0.76
+DOC014,CL0064,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,-0.88
+DOC026,CL0295,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,0.76
+DOC050,CL0580,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Collaborative,0.36
+DOC043,CL0466,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Medium,Collaborative,-0.04
+DOC008,CL0356,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,0.31
+DOC021,CL0003,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Medium,Neutral,0.89
+DOC049,CL0616,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Collaborative,-0.72
+DOC037,CL0630,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Medium,Neutral,0.1
+DOC010,CL0982,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,High,Neutral,0.9
+DOC002,CL0040,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Neutral,-0.12
+DOC034,CL0328,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Medium,Aggressive,0.42
+DOC003,CL0223,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Neutral,-0.17
+DOC013,CL0943,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Neutral,-0.45
+DOC012,CL0946,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Collaborative,-0.53
+DOC038,CL0692,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Neutral,-0.27
+DOC020,CL0650,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,-0.14
+DOC046,CL0520,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,-0.48
+DOC013,CL0655,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Neutral,-0.74
+DOC005,CL0078,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Neutral,-0.11
+DOC002,CL0288,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Collaborative,0.97
+DOC026,CL0707,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Collaborative,-0.83
+DOC015,CL0279,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Low,Neutral,-0.39
+DOC021,CL0537,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,-0.49
+DOC008,CL0988,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,0.79
+DOC036,CL0341,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Neutral,0.98
+DOC030,CL0524,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,-0.94
+DOC018,CL0925,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Aggressive,-0.45
+DOC050,CL0693,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Aggressive,0.48
+DOC041,CL0117,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,0.63
+DOC050,CL0369,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Aggressive,0.56
+DOC006,CL0687,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Aggressive,-0.51
+DOC050,CL0410,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Collaborative,-0.67
+DOC029,CL0126,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,0.04
+DOC030,CL0900,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,High,Aggressive,0.42
+DOC009,CL0751,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Collaborative,-0.1
+DOC025,CL0991,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Collaborative,0.81
+DOC022,CL0267,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Neutral,0.28
+DOC023,CL0798,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,0.53
+DOC043,CL0138,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Neutral,0.35
+DOC048,CL0085,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,High,Neutral,0.62
+DOC037,CL0072,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,-0.26
+DOC021,CL0798,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Collaborative,0.64
+DOC047,CL0062,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Medium,Collaborative,0.68
+DOC044,CL0303,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Low,Neutral,-0.24
+DOC013,CL0740,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Collaborative,-0.84
+DOC022,CL0405,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Aggressive,0.52
+DOC018,CL0289,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Aggressive,-0.05
+DOC029,CL0614,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Collaborative,-0.3
+DOC020,CL0955,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,-0.68
+DOC020,CL0154,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Neutral,-0.56
+DOC008,CL0962,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Neutral,-0.95
+DOC014,CL0070,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,High,Collaborative,-0.13
+DOC024,CL0553,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Collaborative,0.91
+DOC035,CL0577,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Neutral,0.53
+DOC040,CL0065,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Neutral,0.47
+DOC009,CL0356,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Collaborative,0.21
+DOC048,CL0529,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Medium,Collaborative,-0.63
+DOC043,CL0399,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,0.74
+DOC019,CL0310,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Collaborative,-0.11
+DOC044,CL0329,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Aggressive,0.99
+DOC028,CL0383,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Collaborative,0.89
+DOC012,CL0640,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Collaborative,0.94
+DOC038,CL0308,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Collaborative,-0.46
+DOC040,CL0134,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,-0.14
+DOC036,CL0005,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,0.29
+DOC001,CL0150,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Aggressive,0.12
+DOC003,CL0727,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Neutral,0.71
+DOC049,CL0679,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,0.22
+DOC029,CL0288,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,-0.58
+DOC013,CL0006,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Low,Aggressive,0.15
+DOC034,CL0101,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Aggressive,0.54
+DOC004,CL0102,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Neutral,0.1
+DOC008,CL0654,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,High,Collaborative,-0.52
+DOC023,CL0955,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,0.06
+DOC044,CL0937,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Aggressive,0.48
+DOC033,CL0095,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Medium,Collaborative,-0.35
+DOC033,CL0008,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,0.1
+DOC011,CL0721,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,0.12
+DOC038,CL0783,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,-0.55
+DOC005,CL0766,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,-0.12
+DOC026,CL0745,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,-0.88
+DOC032,CL0187,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Aggressive,-0.21
+DOC032,CL0840,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,-0.93
+DOC023,CL0554,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Aggressive,0.89
+DOC030,CL0069,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,0.61
+DOC007,CL0092,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Neutral,-0.34
+DOC032,CL0390,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Neutral,-0.68
+DOC049,CL0572,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Aggressive,0.06
+DOC038,CL0476,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Aggressive,0.45
+DOC046,CL0309,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Collaborative,0.38
+DOC002,CL0493,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,Low,Neutral,-0.6
+DOC044,CL0128,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Neutral,0.14
+DOC017,CL0024,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Collaborative,0.0
+DOC019,CL0707,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,-0.75
+DOC017,CL0986,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Collaborative,-0.74
+DOC039,CL0310,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,0.01
+DOC029,CL0604,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,0.57
+DOC031,CL0952,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,-0.96
+DOC004,CL0857,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Collaborative,-0.83
+DOC003,CL0291,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,0.74
+DOC022,CL0461,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Medium,Collaborative,-0.61
+DOC036,CL0188,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Aggressive,-0.83
+DOC012,CL0639,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Aggressive,0.65
+DOC018,CL0509,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,-0.91
+DOC027,CL0712,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,High,Neutral,-0.41
+DOC016,CL0924,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,-0.04
+DOC015,CL0980,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Collaborative,-0.62
+DOC035,CL0295,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Aggressive,-0.13
+DOC021,CL0952,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Aggressive,-0.87
+DOC048,CL0933,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Aggressive,-0.86
+DOC026,CL0914,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,High,Collaborative,0.2
+DOC001,CL0573,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Collaborative,0.34
+DOC011,CL0317,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,0.82
+DOC032,CL0146,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Aggressive,0.02
+DOC008,CL0609,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Neutral,-0.33
+DOC009,CL0114,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,-0.66
+DOC023,CL0895,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,-1.0
+DOC032,CL0181,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Neutral,0.29
+DOC036,CL0875,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Neutral,-0.08
+DOC038,CL0544,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,High,Aggressive,-0.63
+DOC004,CL0807,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Collaborative,0.48
+DOC018,CL0355,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Aggressive,-0.08
+DOC008,CL0879,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Neutral,-0.98
+DOC015,CL0383,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Aggressive,-0.09
+DOC026,CL0689,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Aggressive,0.65
+DOC019,CL0601,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Neutral,-0.27
+DOC048,CL0955,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Collaborative,0.07
+DOC044,CL0294,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Medium,Neutral,0.55
+DOC048,CL0731,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,High,Aggressive,0.03
+DOC017,CL0554,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Neutral,-0.69
+DOC012,CL0622,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Collaborative,0.66
+DOC048,CL0971,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Collaborative,0.1
+DOC015,CL0262,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,0.4
+DOC002,CL0849,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Collaborative,0.46
+DOC032,CL0021,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Neutral,0.35
+DOC046,CL0583,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Neutral,-0.49
+DOC001,CL0460,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,Low,Collaborative,0.79
+DOC045,CL0245,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Neutral,-0.14
+DOC013,CL0765,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Aggressive,-0.81
+DOC010,CL0574,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,0.77
+DOC019,CL0636,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Neutral,-0.17
+DOC008,CL0064,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,0.23
+DOC002,CL0328,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Aggressive,0.17
+DOC050,CL0914,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Medium,Aggressive,0.2
+DOC007,CL0132,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Neutral,0.44
+DOC030,CL0138,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,0.49
+DOC039,CL0807,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,0.64
+DOC020,CL0453,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Neutral,-0.17
+DOC039,CL0033,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,0.66
+DOC006,CL0321,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,High,Aggressive,-0.65
+DOC040,CL0970,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Neutral,-0.19
+DOC042,CL0189,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Collaborative,-0.37
+DOC038,CL0439,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,High,Collaborative,-0.04
+DOC017,CL0831,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Neutral,0.7
+DOC022,CL0392,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,-0.08
+DOC005,CL0198,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Collaborative,-0.89
+DOC008,CL0071,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,-0.52
+DOC045,CL0608,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,High,Collaborative,0.35
+DOC040,CL0315,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,0.07
+DOC029,CL0245,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,-0.07
+DOC039,CL0107,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Medium,Neutral,0.51
+DOC007,CL0978,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Neutral,0.44
+DOC043,CL0123,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Aggressive,-0.25
+DOC013,CL0669,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Collaborative,0.64
+DOC047,CL0518,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Collaborative,0.08
+DOC041,CL0378,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,-0.77
+DOC045,CL0864,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,-0.13
+DOC017,CL0627,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Neutral,0.32
+DOC028,CL0651,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Neutral,0.41
+DOC007,CL0399,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,High,Neutral,0.8
+DOC020,CL0346,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Aggressive,-0.96
+DOC026,CL0567,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Neutral,0.7
+DOC043,CL0134,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Neutral,0.89
+DOC047,CL0851,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Aggressive,0.88
+DOC002,CL0132,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,0.51
+DOC044,CL0946,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,-0.5
+DOC045,CL0592,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Neutral,0.87
+DOC014,CL0786,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Neutral,-0.06
+DOC042,CL0291,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Aggressive,0.97
+DOC006,CL0034,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Aggressive,-0.47
+DOC004,CL0155,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Aggressive,0.49
+DOC019,CL0688,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Neutral,-0.38
+DOC044,CL0698,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Collaborative,-0.04
+DOC027,CL0054,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Collaborative,-0.45
+DOC043,CL0089,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,0.29
+DOC014,CL0848,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Collaborative,-0.41
+DOC008,CL0618,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,0.11
+DOC001,CL0071,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Neutral,-0.23
+DOC049,CL0807,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Collaborative,-0.18
+DOC048,CL0991,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Medium,Neutral,0.83
+DOC036,CL0742,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,0.76
+DOC012,CL0481,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Aggressive,-0.98
+DOC032,CL0717,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,-0.91
+DOC046,CL0108,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Medium,Neutral,0.46
+DOC038,CL0201,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,-0.8
+DOC036,CL0306,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,-0.5
+DOC012,CL0883,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Collaborative,0.68
+DOC048,CL0424,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Low,Aggressive,-0.12
+DOC030,CL0203,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Neutral,0.63
+DOC011,CL0018,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Collaborative,0.88
+DOC032,CL0195,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Aggressive,-0.29
+DOC024,CL0289,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Aggressive,-0.81
+DOC002,CL0380,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Collaborative,0.6
+DOC022,CL0922,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,High,Neutral,-0.19
+DOC040,CL0476,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Collaborative,-0.22
+DOC023,CL0588,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Neutral,-0.86
+DOC049,CL0337,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Neutral,0.1
+DOC028,CL0140,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,High,Aggressive,-0.08
+DOC007,CL0956,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,Low,Neutral,0.53
+DOC036,CL0243,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,-0.02
+DOC019,CL0795,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Neutral,0.69
+DOC011,CL0202,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Neutral,-0.9
+DOC010,CL0398,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Aggressive,-0.58
+DOC045,CL0711,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,-0.65
+DOC032,CL0600,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Low,Aggressive,0.88
+DOC038,CL0742,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Neutral,0.11
+DOC005,CL0757,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Collaborative,-0.87
+DOC044,CL0572,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Collaborative,0.45
+DOC013,CL0702,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Medium,Aggressive,-0.66
+DOC026,CL0616,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Neutral,0.18
+DOC021,CL0776,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,-0.57
+DOC039,CL0105,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,High,Neutral,0.85
+DOC013,CL0012,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,-0.97
+DOC044,CL0432,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Collaborative,0.37
+DOC023,CL0328,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Aggressive,-0.96
+DOC035,CL0238,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,High,Neutral,0.79
+DOC039,CL0375,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,High,Neutral,-0.9
+DOC025,CL0648,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,-0.57
+DOC033,CL0425,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,0.92
+DOC015,CL0055,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Aggressive,0.72
+DOC036,CL0512,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,0.57
+DOC023,CL0015,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Neutral,0.07
+DOC009,CL0866,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,High,Collaborative,0.95
+DOC046,CL0823,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Neutral,-0.5
+DOC001,CL0098,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Medium,Aggressive,-0.33
+DOC011,CL0914,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,-0.81
+DOC025,CL0344,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Neutral,-0.52
+DOC036,CL0493,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Collaborative,0.94
+DOC017,CL0509,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Collaborative,-0.49
+DOC008,CL0271,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Aggressive,0.2
+DOC032,CL0828,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Neutral,0.93
+DOC025,CL0530,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Neutral,-0.32
+DOC002,CL0100,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Collaborative,-0.58
+DOC048,CL0880,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Medium,Aggressive,-0.0
+DOC001,CL0904,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,-0.84
+DOC041,CL0733,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,0.91
+DOC038,CL0498,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Aggressive,-0.17
+DOC031,CL0926,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,-0.92
+DOC005,CL0993,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Aggressive,-0.9
+DOC022,CL0966,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Aggressive,0.8
+DOC012,CL0470,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Neutral,0.64
+DOC008,CL0645,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Collaborative,-0.3
+DOC033,CL0052,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,High,Collaborative,-0.29
+DOC044,CL0307,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Collaborative,-0.06
+DOC017,CL0282,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Medium,Neutral,-0.25
+DOC029,CL0397,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,-0.95
+DOC026,CL0133,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Neutral,-0.19
+DOC040,CL0895,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,High,Neutral,-0.83
+DOC050,CL0359,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Aggressive,-0.84
+DOC024,CL0962,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Collaborative,0.29
+DOC035,CL0993,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Neutral,-0.39
+DOC036,CL0198,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,High,Neutral,-0.37
+DOC006,CL0815,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,Low,Neutral,-0.0
+DOC044,CL0539,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,0.85
+DOC019,CL0788,This agreement shall be governed by and construed in accordance with the laws of Spain.,Governing Law,High,Collaborative,-0.58
+DOC005,CL0124,Either party may terminate this agreement by providing 60 days written notice.,Termination,High,Collaborative,0.78
+DOC006,CL0410,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,0.38
+DOC029,CL0512,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,0.79
+DOC029,CL0192,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,-0.93
+DOC005,CL0041,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,0.45
+DOC021,CL0067,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Medium,Collaborative,0.49
+DOC005,CL0038,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Collaborative,-0.59
+DOC038,CL0053,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,0.34
+DOC039,CL0699,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Collaborative,0.05
+DOC002,CL0471,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,-0.7
+DOC011,CL0268,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Low,Collaborative,0.11
+DOC002,CL0669,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Aggressive,0.67
+DOC033,CL0939,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Neutral,-0.28
+DOC049,CL0722,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Low,Collaborative,0.56
+DOC012,CL0047,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Collaborative,-0.85
+DOC009,CL0890,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Neutral,0.31
+DOC009,CL0556,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Aggressive,-0.63
+DOC012,CL0367,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Collaborative,-0.64
+DOC008,CL0506,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Aggressive,0.34
+DOC019,CL0391,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Collaborative,0.85
+DOC044,CL0139,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Neutral,-0.57
+DOC042,CL0690,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Medium,Aggressive,0.91
+DOC043,CL0975,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Aggressive,-0.25
+DOC036,CL0685,This agreement shall be governed by and construed in accordance with the laws of France.,Governing Law,Low,Aggressive,-0.14
+DOC029,CL0232,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Collaborative,0.9
+DOC019,CL0760,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Aggressive,-0.56
+DOC021,CL0895,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Neutral,-0.77
+DOC004,CL0237,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Collaborative,-0.5
+DOC025,CL0219,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Neutral,0.22
+DOC041,CL0433,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Collaborative,-0.77
+DOC038,CL0662,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Neutral,-0.83
+DOC042,CL0944,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Aggressive,-0.86
+DOC014,CL0326,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Collaborative,-0.84
+DOC044,CL0152,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Neutral,0.2
+DOC005,CL0666,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Neutral,0.68
+DOC050,CL0303,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Medium,Neutral,0.51
+DOC030,CL0790,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Collaborative,-0.98
+DOC003,CL0983,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Collaborative,0.8
+DOC007,CL0001,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Collaborative,0.18
+DOC027,CL0887,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,-0.77
+DOC006,CL0998,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Neutral,-0.73
+DOC025,CL0478,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,-0.13
+DOC001,CL0127,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Collaborative,-0.23
+DOC017,CL0889,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Low,Neutral,0.67
+DOC042,CL0081,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,-0.98
+DOC013,CL0459,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Aggressive,-0.08
+DOC035,CL0903,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Neutral,0.69
+DOC020,CL0769,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Collaborative,0.13
+DOC002,CL0302,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Neutral,-0.41
+DOC024,CL0859,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Collaborative,-0.7
+DOC046,CL0025,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Medium,Neutral,0.02
+DOC005,CL0374,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Neutral,0.0
+DOC013,CL0404,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Collaborative,0.78
+DOC028,CL0376,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Collaborative,-0.82
+DOC016,CL0462,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,-0.15
+DOC021,CL0060,This agreement shall be governed by and construed in accordance with the laws of India.,Governing Law,Medium,Collaborative,0.92
+DOC029,CL0083,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Aggressive,0.78
+DOC023,CL0905,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Neutral,0.13
+DOC013,CL0134,This agreement shall be governed by and construed in accordance with the laws of USA.,Governing Law,Medium,Neutral,-0.78
+DOC014,CL0856,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Neutral,-0.42
+DOC047,CL0820,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Neutral,-0.04
+DOC016,CL0923,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,High,Aggressive,-0.07
+DOC020,CL0440,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Medium,Aggressive,-0.11
+DOC030,CL0683,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Medium,Neutral,0.55
+DOC030,CL0342,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Aggressive,0.29
+DOC005,CL0441,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Collaborative,0.85
+DOC023,CL0714,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Collaborative,-0.85
+DOC011,CL0380,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Neutral,-0.67
+DOC015,CL0804,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Medium,Neutral,0.35
+DOC019,CL0049,The liability of the service provider is limited to the amount paid under this agreement.,Liability,High,Collaborative,-0.22
+DOC034,CL0581,The liability of the service provider is limited to the amount paid under this agreement.,Liability,Low,Aggressive,0.44
+DOC045,CL0061,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,-0.48
+DOC010,CL0663,Either party may terminate this agreement by providing 60 days written notice.,Termination,Low,Aggressive,-0.34
+DOC019,CL0606,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Aggressive,-0.66
+DOC016,CL0196,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,Low,Aggressive,0.72
+DOC032,CL0189,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Aggressive,-0.54
+DOC026,CL0747,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Collaborative,0.01
+DOC023,CL0197,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Aggressive,-0.96
+DOC038,CL0002,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Neutral,0.63
+DOC008,CL0728,The payment shall be made within 30 days from the date of invoice.,Payment Terms,High,Collaborative,0.83
+DOC034,CL0063,Either party may terminate this agreement by providing 60 days written notice.,Termination,Medium,Collaborative,0.64
+DOC047,CL0772,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Low,Neutral,-0.96
+DOC028,CL0552,Neither party shall be liable for delays caused by force majeure events.,Force Majeure,Low,Neutral,0.73
+DOC041,CL0390,The payment shall be made within 30 days from the date of invoice.,Payment Terms,Medium,Aggressive,-0.8
+DOC010,CL0866,The parties agree to maintain strict confidentiality of all disclosed information.,Confidentiality,High,Collaborative,-0.23
